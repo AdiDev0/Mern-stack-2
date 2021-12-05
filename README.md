@@ -1,7 +1,7 @@
 # The Social Network
 # Getting Started with Create React App
 
-The site is live at: <a href="https://the-social-network.netlify.app/</a>
+The site is live at: "https://the-social-network.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
